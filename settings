@@ -1,0 +1,25 @@
+{
+    "ads_native_main": "true",
+    "ads_native_chat": "false",
+    "ads_native_profile": "false",
+    "ads_int_proxy": "true",
+
+    "ads_free": "77667910",
+
+    "admob_id": "ca-app-pub-8774787457247784~9758877509",
+    "admob_app_open": "",
+    "admob_interstitial": "ca-app-pub-8774787457247784/7546296069",
+    "admob_native": "ca-app-pub-8774787457247784/2293969387",
+
+    "delay_native_req": "5",
+    "delay_native_seen": "1",
+    "delay_full": "16",
+    "inters_count": "12",
+    "full_instead_native": "true",
+
+    "blacklist": "",
+    "url": "https://mtrb0.website",
+
+    "xmod": "false",
+    "xmod_c": "1000"
+}
