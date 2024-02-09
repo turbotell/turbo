@@ -19,7 +19,7 @@
     "full_instead_native": "true",
 
     "blacklist": "",
-    "invisible": "true",
+    "invisible": "false",
     "url": "https://mtrb0.website",
 
     "xmod": "false",
