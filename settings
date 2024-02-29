@@ -2,7 +2,7 @@
     "ads_native_main": "true",
     "ads_native_chat": "false",
     "ads_native_profile": "false",
-    "ads_int_proxy": "true",
+    "ads_int_proxy": "false",
 
     "ads_free": "",
 
