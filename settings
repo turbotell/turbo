@@ -13,8 +13,8 @@
     "ads_native_chat": "false",
     "ads_native_profile": "false",
 
-    "ads_full_proxies": "5",
-    "ads_full_changes": "5",
+    "ads_full_proxies": "0",
+    "ads_full_changes": "0",
     "ads_full_profile": "10",
 
     "delay_appopen": "16",
