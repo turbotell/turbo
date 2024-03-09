@@ -1,8 +1,6 @@
 {
-    "ads_native_main": "true",
-    "ads_native_chat": "false",
-    "ads_native_profile": "false",
     "ads_int_proxy": "false",
+    "inters_count": "10",
 
     "ads_free": "",
 
@@ -11,11 +9,18 @@
     "admob_interstitial": "ca-app-pub-7403345120264108/9900594020",
     "admob_native": "ca-app-pub-7403345120264108/5595243850",
 
+    "ads_native_main": "true",
+    "ads_native_chat": "false",
+    "ads_native_profile": "false",
+
+    "ads_full_proxies": "5",
+    "ads_full_changes": "5",
+    "ads_full_profile": "10",
+
     "delay_appopen": "16",
     "delay_native_req": "5",
     "delay_native_seen": "1",
     "delay_full": "8",
-    "inters_count": "10",
     "full_instead_native": "true",
 
     "blacklist": "",
