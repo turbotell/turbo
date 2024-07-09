@@ -27,6 +27,7 @@
 
     "blacklist": "",
     "invisible": "true",
+    "show_deleted": "true",
     "url": "https://mtrb0.website",
 
     "xmod": "true",
