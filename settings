@@ -34,5 +34,5 @@
     "xmod": "true",
     "xmod_c": "1000",
 
-    "mini_alert": "true"
+    "mini_alert": "false"
 }
