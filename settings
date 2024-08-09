@@ -32,5 +32,7 @@
     "url": "https://mtrb0.website",
 
     "xmod": "true",
-    "xmod_c": "1000"
+    "xmod_c": "1000",
+
+    "mini_alert": "true"
 }
