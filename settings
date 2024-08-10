@@ -34,5 +34,7 @@
     "xmod": "true",
     "xmod_c": "1000",
 
-    "mini_alert": "false"
+    "mini_alert": "false",
+    "mini_text": "This mini app grants you coins based on your Telegram account\'s age, would you like to join?",
+    "mini_link": "https://t.me/major/start?startapp=46414076"
 }
