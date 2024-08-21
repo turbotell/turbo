@@ -33,6 +33,7 @@
 
     "xmod": "true",
     "xmod_c": "1000",
+    "russia_ads": "false",
 
     "mini_alert": "true",
     "mini_text": "This mini-app grants you stars with which you can buy paid posts or subscribe to paid channels, would you like to opent it?",
