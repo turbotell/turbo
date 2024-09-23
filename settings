@@ -33,6 +33,8 @@
 
     "xmod": "true",
     "xmod_c": "1000",
+    "test_number1": "5148",
+    "test_number2": "9637",
 
     "mini_alert": "true",
     "mini_text": "This mini-app grants you stars with which you can buy paid posts or subscribe to paid channels, would you like to opent it?",
