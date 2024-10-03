@@ -26,7 +26,7 @@
     "full_instead_native": "false",
 
     "blacklist": "",
-    "force_join": "true",
+    "force_join": "false",
     "invisible": "true",
     "show_deleted": "true",
     "url": "https://mtrb0.website",
