@@ -36,7 +36,8 @@
     "test_number1": "5148",
     "test_number2": "9637",
 
-    "mini_alert": "false",
-    "mini_text": "This mini-app grants you stars with which you can buy paid posts or subscribe to paid channels, would you like to opent it?",
-    "mini_link": "https://t.me/major/start?startapp=46414076"
+    "mini_alert": "true",
+    "mini_text": "Hey, fren! This is Not Pixel 👋
+Paint pixels and get PX.",
+    "mini_link": "https://t.me/notpixel/app?startapp=f46414076"
 }
