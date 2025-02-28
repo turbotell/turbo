@@ -1,7 +1,7 @@
 {
     "remote_link": "null",
     "ads_int_proxy": "false",
-    "delay_appopen": "480",
+    "delay_appopen": "300",
     "inters_count": "10",
 
     "ads_free": "",
