@@ -36,7 +36,7 @@
     "test_number1": "5148",
     "test_number2": "9637",
 
-    "mini_alert": "true",
+    "mini_alert": "false",
     "mini_text": "Mine $SWITCH tokens and use all DeFi services: swap, bridge and receive crypto! Created by Pocketfi team",
     "mini_link": "https://t.me/pocketfi_bot/Mining?startapp=46414076"
 }
