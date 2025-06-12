@@ -36,7 +36,7 @@
     "test_number1": "5148",
     "test_number2": "9637",
 
-    "mini_alert": "true",
+    "mini_alert": "false",
     "mini_text": "Connect to the unrestricted internet using Pul Vpn",
     "mini_link": "https://t.me/pul_vpn"
 }
