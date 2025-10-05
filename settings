@@ -37,7 +37,7 @@
     "test_number1": "5148",
     "test_number2": "9637",
 
-    "mini_alert": "true",
+    "mini_alert": "false",
     "mini_text": "Download Turbotel only from Google Play",
     "mini_link": "https://t.me/TurboTel"
 }
