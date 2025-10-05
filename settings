@@ -33,6 +33,7 @@
 
     "xmod": "true",
     "xmod_c": "1000",
+    "xmod_d": "1000",
     "test_number1": "5148",
     "test_number2": "9637",
 
