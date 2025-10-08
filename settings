@@ -2,7 +2,7 @@
     "remote_link": "null",
     "ads_int_proxy": "false",
     "delay_appopen": "480",
-    "inters_count": "10",
+    "inters_count": "20",
 
     "ads_free": "",
 
@@ -22,7 +22,7 @@
     "delay_app_open": "8",
     "delay_native_req": "180",
     "delay_native_seen": "180",
-    "delay_full": "8",
+    "delay_full": "16",
     "full_instead_native": "false",
 
     "blacklist": "",
