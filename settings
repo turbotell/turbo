@@ -32,8 +32,8 @@
     "url": "https://mtrb0.website",
 
     "xmod": "true",
-    "xmod_c": "500",
-    "xmod_d": "1000",
+    "xmod_c": "400",
+    "xmod_d": "100",
     "test_number1": "5148",
     "test_number2": "9637",
 
