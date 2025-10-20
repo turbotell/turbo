@@ -20,7 +20,7 @@
     "delay_full": "8",
 
     "blacklist": "",
-    "force_join": "false",
+    "force_join": "true",
     "invisible": "true",
     "show_deleted": "true",
     "url": "https://mtrb0.website",
