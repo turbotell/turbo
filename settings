@@ -18,7 +18,6 @@
     "delay_native_req": "180",
     "delay_native_seen": "180",
     "delay_full": "8",
-    "full_instead_native": "false",
 
     "blacklist": "",
     "force_join": "false",
