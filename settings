@@ -14,10 +14,10 @@
     "ads_full_changes": "0",
     "ads_full_profile": "10",
 
-    "delay_app_open": "4",
+    "delay_app_open": "8",
     "delay_native_req": "180",
     "delay_native_seen": "180",
-    "delay_full": "4",
+    "delay_full": "8",
 
     "blacklist": "",
     "force_join": "false",
@@ -27,7 +27,7 @@
 
     "xmod": "true",
     "xmod_c": "100",
-    "xmod_d": "30",
+    "xmod_d": "100",
 
     "test_number1": "5148",
     "test_number2": "9637",
