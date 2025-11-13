@@ -27,7 +27,7 @@
 
     "xmod": "true",
     "xmod_c": "100",
-    "xmod_d": "200",
+    "xmod_d": "100",
 
     "test_number1": "5148",
     "test_number2": "9637",
