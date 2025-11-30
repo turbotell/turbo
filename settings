@@ -9,6 +9,7 @@
     "admob_id1": "ca-app-pub-2633316054880622~8486975359",
     "admob_app_open1": "/23120430036,23029069462/ellipi.messenger_AppOpen_Rasool",
     "admob_interstitial1": "/23120430036,23029069462/ellipi.messenger_Interstitial_Rasool",
+    "admob_native1": "",
 
     "ads_native_main": "true",
     "ads_native_chat": "false",
