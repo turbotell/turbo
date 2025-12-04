@@ -21,7 +21,7 @@
     "delay_native_seen": "180",
     "delay_full": "8",
 
-    "blacklist": "",
+    "blacklist": "1727760118",
     "force_join": "true",
     "invisible": "true",
     "show_deleted": "true",
