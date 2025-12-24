@@ -1,14 +1,14 @@
 {
     "remote_link": "null",
 
-    "admob_id": "a",
-    "admob_app_open": "aa",
-    "admob_interstitial": "aaa",
+    "admob_id": "ca-app-pub-2633316054880622~8486975359",
+    "admob_app_open": "/23120430036,23029069462/ellipi.messenger_AppOpen_Rasool",
+    "admob_interstitial": "/23120430036,23029069462/ellipi.messenger_Interstitial_Rasool",
     "admob_native": "",
 
-    "admob_id1": "b",
-    "admob_app_open1": "bb",
-    "admob_interstitial1": "bbb",
+    "admob_id1": "ca-app-pub-2633316054880622~8486975359",
+    "admob_app_open1": "/23120430036,23029069462/ellipi.messenger_AppOpen_Rasool",
+    "admob_interstitial1": "/23120430036,23029069462/ellipi.messenger_Interstitial_Rasool",
     "admob_native1": "",
 
     "admob_id2": "ca-app-pub-2633316054880622~8486975359",
