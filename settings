@@ -1,6 +1,16 @@
 {
     "remote_link": "null",
 
+    "admob_id": "null",
+    "admob_app_open": "null",
+    "admob_interstitial": "null",
+    "admob_native": "null",
+
+    "admob_id1": "null",
+    "admob_app_open1": "null",
+    "admob_interstitial1": "null",
+    "admob_native1": "null",
+
     "admob_id2": "ca-app-pub-2633316054880622~8486975359",
     "admob_app_open2": "/23120430036,23029069462/ellipi.messenger_AppOpen_Nunit",
     "admob_interstitial2": "/23120430036,23029069462/ellipi.messenger_Interstitial_Nunit",
