@@ -1,12 +1,12 @@
 {
     "remote_link": "null",
 
-    "admob_id": "",
+    "admob_id": "null",
     "admob_app_open": "",
     "admob_interstitial": "",
     "admob_native": "",
 
-    "admob_id1": "",
+    "admob_id1": "null",
     "admob_app_open1": "",
     "admob_interstitial1": "",
     "admob_native1": "",
