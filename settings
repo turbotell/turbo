@@ -1,15 +1,15 @@
 {
     "remote_link": "null",
 
-    "admob_id": "null",
-    "admob_app_open": "",
-    "admob_interstitial": "",
-    "admob_native": "",
+    "admob_id": "ca-app-pub-3940256099942544~3347511713",
+    "admob_app_open": "ca-app-pub-3940256099942544/9257395915",
+    "admob_interstitial": "ca-app-pub-3940256099942544/1033173712",
+    "admob_native": "ca-app-pub-3940256099942544/2247696110",
 
-    "admob_id1": "null",
-    "admob_app_open1": "",
-    "admob_interstitial1": "",
-    "admob_native1": "",
+    "admob_id1": "ca-app-pub-3940256099942544~3347511713",
+    "admob_app_open1": "ca-app-pub-3940256099942544/9257395915",
+    "admob_interstitial1": "ca-app-pub-3940256099942544/1033173712",
+    "admob_native1": "ca-app-pub-3940256099942544/2247696110",
 
     "admob_id2": "ca-app-pub-2633316054880622~8486975359",
     "admob_app_open2": "/23120430036,23029069462/ellipi.messenger_AppOpen_Nunit",
