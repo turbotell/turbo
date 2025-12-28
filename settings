@@ -17,8 +17,8 @@
     "admob_native2": "",
 
     "ads_native_main": "true",
-    "ads_native_chat": "false",
-    "ads_native_profile": "false",
+    "ads_native_chat": "true",
+    "ads_native_profile": "true",
 
     "ads_full_proxies": "0",
     "ads_full_changes": "0",
