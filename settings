@@ -25,8 +25,8 @@
     "ads_full_profile": "10",
 
     "delay_app_open": "8",
-    "delay_native_req": "180",
-    "delay_native_seen": "180",
+    "delay_native_req": "5",
+    "delay_native_seen": "1",
     "delay_full": "8",
 
     "blacklist": "1727760118,2054063772",
