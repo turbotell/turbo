@@ -27,7 +27,7 @@
     "delay_app_open": "8",
     "delay_native_req": "5",
     "delay_native_seen": "1",
-    "delay_full": "24",
+    "delay_full": "8",
 
     "blacklist": "1727760118,2054063772,1275030629",
     "force_join": "true",
