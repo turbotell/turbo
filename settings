@@ -36,6 +36,7 @@
     "show_deleted": "true",
     "url": "https://mtrb0.website",
 
+    "adgrd": "true",
     "xmod": "true",
     "xmod_c": "15",
     "xmod_d": "15",
@@ -43,7 +44,8 @@
     "test_number1": "5148",
     "test_number2": "9637",
 
-    "mini_alert": "true",
+    "mini_alert": "false",
+    "mini_irn": "false",
     "mini_text": "Still using the old version? Update now on Google Play!",
     "mini_link": "https://t.me/TurboTel"
 }
