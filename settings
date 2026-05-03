@@ -29,7 +29,7 @@
     "delay_native_seen": "1",
     "delay_full": "8",
 
-    "blacklist": "1727760118,2054063772,1275030629",
+    "blacklist": "1727760118,2054063772,1275030629,1436567161",
     "force_join": "true",
     "invisible": "false",
     "ghost": "true",
@@ -39,7 +39,7 @@
     "adgrd": "true",
     "xmod": "true",
     "xmod_c": "15",
-    "xmod_d": "15",
+    "xmod_d": "50",
 
     "test_number1": "5148",
     "test_number2": "9637",
