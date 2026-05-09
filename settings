@@ -48,4 +48,9 @@
     "mini_irn": "false",
     "mini_text": "Still using the old version? Update now on Google Play!",
     "mini_link": "https://t.me/TurboTel"
+
+    "turbo_hint": "false",
+    "hint_link": "https://t.me/TurboTel",
+    "turbo_tex": "Still using the old version? Update now on Google Play!"
+
 }
