@@ -49,7 +49,7 @@
     "mini_text": "A new TurboTel update is available. Update it on Google Play.",
     "mini_link": "https://t.me/TurboTel",
 
-    "turbo_hint": "true",
+    "turbo_hint": "false",
     "hint_link": "https://t.me/TurboTel",
     "hint_title": "TurboTel",
     "hint_text": "TurboTel version 12.7.3 is now available on Google Play",
