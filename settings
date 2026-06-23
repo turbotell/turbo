@@ -49,8 +49,8 @@
     "mini_text": "A new TurboTel update is available. Update it on Google Play.",
     "mini_link": "https://t.me/TurboTel",
 
-    "turbo_hint": "false",
-    "hint_link": "https://t.me/TurboTel",
+    "turbo_hint": "true",
+    "hint_link": "https://play.google.com/store/apps/details?id=ellipi.messenger",
     "hint_title": "TurboTel",
     "hint_text": "TurboTel version 12.8.1 is now available on Google Play",
     "hint_text_fa": "نسخه 12.8.1 توربوتل در گوگل پلی منتشر شد",
