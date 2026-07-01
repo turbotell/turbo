@@ -22,7 +22,7 @@
 
     "ads_full_proxies": "5",
     "ads_full_changes": "5",
-    "ads_full_profile": "8",
+    "ads_full_profile": "10",
 
     "delay_app_open": "4",
     "delay_native_req": "5",
