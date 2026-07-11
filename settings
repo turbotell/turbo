@@ -52,11 +52,11 @@
     "turbo_hint": "false",
     "hint_link": "https://play.google.com/store/apps/details?id=ellipi.messenger",
     "hint_title": "TurboTel",
-    "hint_text": "TurboTel version 12.8.3 is now available on Google Play",
-    "hint_text_fa": "نسخه 12.8.3 توربوتل در گوگل پلی منتشر شد",
-    "hint_text_id": "TurboTel versi 12.8.3 sudah tersedia di Google Play",
-    "hint_text_ms": "TurboTel versi 12.8.3 kini tersedia di Google Play",
-    "hint_text_uz": "TurboTel 12.8.3 versiyasi endi Google Play’da mavjud",
-    "hint_text_ar": "الإصدار 12.8.3 من TurboTel متاح الآن على Google Play",
-    "hint_text_ru": "TurboTel 12.8.3 уже доступен в Google Play"
+    "hint_text": "Please make sure your TurboTel is up to date",
+    "hint_text_fa": "مطمئن شوید توربوتل شما بروز است",
+    "hint_text_ar": "تأكد من أن تطبيق توربوتل لديك مُحدَّث إلى أحدث إصدار",
+    "hint_text_id": "Pastikan TurboTel Anda sudah diperbarui ke versi terbaru",
+    "hint_text_ms": "Pastikan TurboTel anda telah dikemas kini ke versi terkini",
+    "hint_text_uz": "Iltimos, TurboTel yangilanganiga ishonch hosil qiling",
+    "hint_text_ru": "Убедитесь, что у вас установлена последняя версия TurboTel"
 }
