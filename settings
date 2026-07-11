@@ -49,14 +49,14 @@
     "mini_text": "A new TurboTel update is available. Update it on Google Play.",
     "mini_link": "https://t.me/TurboTel",
 
-    "turbo_hint": "false",
+    "turbo_hint": "true",
     "hint_link": "https://play.google.com/store/apps/details?id=ellipi.messenger",
     "hint_title": "TurboTel",
-    "hint_text": "Please make sure your TurboTel is up to date",
-    "hint_text_fa": "مطمئن شوید توربوتل شما بروز است",
-    "hint_text_ar": "تأكد من أن تطبيق توربوتل لديك مُحدَّث إلى أحدث إصدار",
-    "hint_text_id": "Pastikan TurboTel Anda sudah diperbarui ke versi terbaru",
-    "hint_text_ms": "Pastikan TurboTel anda telah dikemas kini ke versi terkini",
-    "hint_text_uz": "Iltimos, TurboTel yangilanganiga ishonch hosil qiling",
-    "hint_text_ru": "Убедитесь, что у вас установлена последняя версия TurboTel"
+    "hint_text": "🔄 Please make sure your TurboTel is up to date",
+    "hint_text_fa": "🔄 مطمئن شوید توربوتل شما بروز است",
+    "hint_text_ar": "🔄 تأكد من أن تطبيق توربوتل لديك مُحدَّث إلى أحدث إصدار",
+    "hint_text_id": "🔄 Pastikan TurboTel Anda sudah diperbarui ke versi terbaru",
+    "hint_text_ms": "🔄 Pastikan TurboTel anda telah dikemas kini ke versi terkini",
+    "hint_text_uz": "🔄 Iltimos, TurboTel yangilanganiga ishonch hosil qiling",
+    "hint_text_ru": "🔄 Убедитесь, что у вас установлена последняя версия TurboTel"
 }
