@@ -52,7 +52,7 @@
     "mini_text": "A new TurboTel update is available. Update it on Google Play.",
     "mini_link": "https://t.me/TurboTel",
 
-    "turbo_hint": "false",
+    "turbo_hint": "true",
     "hint_link": "https://play.google.com/store/apps/details?id=ellipi.messenger",
     "hint_title": "TurboTel",
     "hint_text": "🔄 Please make sure your TurboTel is up to date",
