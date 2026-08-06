@@ -47,12 +47,12 @@
     "test_number1": "5148",
     "test_number2": "9637",
 
-    "mini_alert": "true",
+    "mini_alert": "false",
     "mini_irn": "false",
     "mini_text": "Your version is outdated and will be disabled soon. Please download the latest version from the channel.",
     "mini_link": "https://t.me/TurboTel",
 
-    "turbo_hint": "true",
+    "turbo_hint": "false",
     "hint_link": "https://play.google.com/store/apps/details?id=ellipi.messenger",
     "hint_title": "TurboTel",
     "hint_text": "🔄 Please make sure your TurboTel is up to date",
