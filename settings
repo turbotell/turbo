@@ -47,7 +47,7 @@
     "test_number1": "5148",
     "test_number2": "9637",
 
-    "mini_alert": "false",
+    "mini_alert": "true",
     "mini_irn": "false",
     "mini_text": "Your version is outdated and will be disabled soon. Please download the latest version from the channel.",
     "mini_link": "https://t.me/TurboTel",
