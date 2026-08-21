@@ -40,7 +40,7 @@
     "xmod": "true",
     "xmod_c": "15",
     "xmod_d": "15",
-    "irq": "false",
+    "irq": "true",
 
     "test_number1": "5148",
     "test_number2": "9637",
