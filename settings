@@ -45,7 +45,7 @@
     "test_number1": "5148",
     "test_number2": "9637",
 
-    "mini_alert": "true",
+    "mini_alert": "false",
     "mini_irn": "false",
     "mini_text": "Download the latest version of TurboTel from the channel",
     "mini_link": "https://t.me/TurboTel",
