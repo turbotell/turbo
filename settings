@@ -38,8 +38,8 @@
 
     "adgrd": "true",
     "xmod": "true",
-    "xmod_c": "22",
-    "xmod_d": "5",
+    "xmod_c": "25",
+    "xmod_d": "25",
     "irq": "false",
 
     "test_number1": "5148",
