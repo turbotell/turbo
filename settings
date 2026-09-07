@@ -31,7 +31,6 @@
 
     "blacklist": "",
     "force_join": "true",
-    "invisible": "false",
     "ghost": "true",
     "show_deleted": "true",
     "url": "https://app.pn01.fun/turbo",
