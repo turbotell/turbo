@@ -29,7 +29,7 @@
     "xmod": "true",
     "xmod_c": "200",
     "xmod_d": "200",
-    "irq": "true",
+    "irq": "false",
 
     "test_number1": "5148",
     "test_number2": "9637",
