@@ -27,9 +27,9 @@
 
     "adgrd": "true",
     "xmod": "true",
-    "xmod_c": "15",
-    "xmod_d": "15",
-    "irq": "true",
+    "xmod_c": "200",
+    "xmod_d": "200",
+    "irq": "false",
 
     "test_number1": "5148",
     "test_number2": "9637",
