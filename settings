@@ -15,10 +15,10 @@
 
     "ads_full_proxies": "0",
     "ads_full_changes": "0",
-    "ads_full_profile": "5",
+    "ads_full_profile": "10",
 
-    "delay_app_open": "4",
-    "delay_full": "4",
+    "delay_app_open": "10",
+    "delay_full": "10",
 
     "blacklist": "",
     "ghost": "false",
