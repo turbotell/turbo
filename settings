@@ -34,20 +34,20 @@
     "test_number1": "5148",
     "test_number2": "9637",
 
-    "mini_alert": "false",
+    "mini_alert": "true",
     "mini_irn": "false",
     "mini_text": "Download the latest version of TurboTel from the channel",
     "mini_link": "https://t.me/TurboTel",
 
-    "turbo_hint": "false",
+    "turbo_hint": "true",
     "hint_image_id": "1041963357",
-    "hint_link": "https://t.me/TurboGroup_Fa",
-    "hint_title": "توربوتل",
-    "hint_text": "",
-    "hint_text_fa": "به گروه پشتیبانی توربوتل ملحق شوید",
-    "hint_text_ar": "",
-    "hint_text_id": "",
-    "hint_text_ms": "",
-    "hint_text_uz": "",
-    "hint_text_ru": ""
+    "hint_link": "https://t.me/TurboTel",
+    "hint_title": "TurboTel",
+    "hint_text": "Download the latest version of TurboTel from the channel",
+    "hint_text_fa": "آخرین نسخه توربوتل را از کانال دانلود کنید",
+    "hint_text_ar": "قم بتنزيل أحدث إصدار من TurboTel من القناة",
+    "hint_text_id": "Unduh versi terbaru TurboTel dari channel",
+    "hint_text_ms": "Muat turun versi terkini TurboTel daripada saluran",
+    "hint_text_uz": "TurboTel’ning eng so‘nggi versiyasini kanaldan yuklab oling",
+    "hint_text_ru": "Скачайте последнюю версию TurboTel из канала"
 }
