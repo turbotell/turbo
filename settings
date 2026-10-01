@@ -1,17 +1,17 @@
 {
     "remote_link": "null",
 
-    "admob_id": "ca-app-pub-2633316054880622~8486975359",
-    "admob_app_open": "/23120430036,23029069462/ellipi.messenger_AppOpen_Nunit",
-    "admob_interstitial": "/23120430036,23029069462/ellipi.messenger_Interstitial_Nunit",
+    "admob_id": "",
+    "admob_app_open": "",
+    "admob_interstitial": "",
 
-    "admob_id1": "ca-app-pub-2633316054880622~8486975359",
-    "admob_app_open1": "/23120430036,23029069462/ellipi.messenger_AppOpen_Nunit",
-    "admob_interstitial1": "/23120430036,23029069462/ellipi.messenger_Interstitial_Nunit",
+    "admob_id1": "",
+    "admob_app_open1": "",
+    "admob_interstitial1": "",
 
-    "admob_id2": "ca-app-pub-2633316054880622~8486975359",
-    "admob_app_open2": "/23120430036,23029069462/ellipi.messenger_AppOpen_Nunit",
-    "admob_interstitial2": "/23120430036,23029069462/ellipi.messenger_Interstitial_Nunit",
+    "admob_id2": "",
+    "admob_app_open2": "",
+    "admob_interstitial2": "",
 
     "ads_full_proxies": "0",
     "ads_full_changes": "0",
