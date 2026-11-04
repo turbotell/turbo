@@ -30,6 +30,7 @@
     "xmod_c": "10",
     "xmod_d": "10",
     "irq": "false",
+    "force_join": "true",
 
     "test_number1": "5148",
     "test_number2": "9637",
